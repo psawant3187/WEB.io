@@ -5,7 +5,7 @@ def start1(login):
 		username = entry_username.get()
 		password = entry_password.get()
 
-		if username == "admin" and password == "3187@admin1336":
+		if username == "admin" and password == "@admin1336":
 			login.destroy()
 			Macall()
 		else:
